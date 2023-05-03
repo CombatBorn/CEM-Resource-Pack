@@ -1,43 +1,24 @@
 {
-	"credit": "Made with Blockbench",
-	"texture": "mutated_leg.png",
+	"texture": "textures/entity/zombie/mutated_leg.png",
 	"textureSize": [32, 32],
 	"models": [
 		{
-			"part": "head",
-			"id": "head",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "head"
 		},
 		{
-			"part": "headwear",
-			"id": "headwear",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "headwear"
 		},
 		{
-			"part": "body",
-			"id": "body",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "body"
 		},
 		{
-			"part": "left_arm",
-			"id": "left_arm",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "left_arm"
 		},
 		{
-			"part": "right_arm",
-			"id": "right_arm",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "right_arm"
 		},
 		{
-			"part": "left_leg",
-			"id": "left_leg",
-			"invertAxis": "xy",
-			"translate": [0, 0, 0]
+			"part": "left_leg"
 		},
 		{
 			"part": "right_leg",
