@@ -1,5 +1,5 @@
 {
-	"texture": "textures/entity/zombie/mutated_leg.png",
+	"texture": "textures/entity/zombie/leg.png",
 	"textureSize": [32, 32],
 	"models": [
 		{
